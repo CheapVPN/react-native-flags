@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4fef0e8-e744-4cf2-8339-97810d7eeef6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/flags/flat/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/flags/flat/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flags/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/flags/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flags/shiny/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/flags/shiny/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="f4fef0e8-e744-4cf2-8339-97810d7eeef6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672255765215</updated>
-      <workItem from="1672255768283" duration="186000" />
+      <workItem from="1672255768283" duration="220000" />
     </task>
     <servers />
   </component>
